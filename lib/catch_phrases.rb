@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  heart_cont = "It's Dangerous To Go Alone! Take This!"
+  heart_cont = "It's Dangerous To Go Alone! Take This."
   puts heart_cont
 end
 
